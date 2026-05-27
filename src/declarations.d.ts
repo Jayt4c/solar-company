@@ -16,3 +16,6 @@ declare module 'isotope-layout' {
 
   export default Isotope;
 }
+
+declare module "bootstrap/dist/js/bootstrap.bundle.min.js";
+declare module 'aos';
