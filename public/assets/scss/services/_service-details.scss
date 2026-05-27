@@ -1,0 +1,154 @@
+/*START SINGLE PROJECT DETAILS*/
+.single_ser_info {
+  background: #f8f7f0;
+  padding: 30px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+.single_ser_info h4 {
+  margin-bottom: 30px;
+}
+.single_ser_info a {
+  display: block;
+  background: #fff;
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  border-radius: 30px;
+  font-weight: normal;
+  font-size: 16px;
+  transition: 0.3s;
+}
+.single_ser_info a i {
+  float: right;
+  margin-top: 5px;
+}
+.single_ser_info a:hover {
+  background: #1d8f2c;
+  color: #fff;
+}
+.single_brochure {
+  background: #f8f7f0;
+  padding: 30px;
+  border-radius: 10px;
+}
+.single_brochure h4 {
+  margin-bottom: 30px;
+}
+.single_bro_doc {
+  margin-bottom: 20px;
+}
+.single_bro_doc h5 {
+  text-transform: capitalize;
+  color: #24231d;
+  letter-spacing: 0;
+  margin-top: 0px;
+  overflow: hidden;
+}
+.single_bro_doc p {
+  overflow: hidden;
+  margin-top: -7px;
+}
+.sbd_icon i {
+  float: left;
+  margin-right: 10px;
+  font-size: 24px;
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+.sbd_icon_two {
+  float: right;
+  margin-top: -60px;
+  font-size: 24px;
+  color: #1d8f2c;
+}
+
+.single_pro_details h1 {
+  margin: 30px 0;
+  font-size: 48px;
+}
+.single_pro_details h4 {
+  margin: 30px 0;
+}
+.single_pro_details p {
+  margin-bottom: 20px;
+}
+.single_pro_details ul {
+  margin-bottom: 40px;
+  width: 50%;
+  float: left;
+}
+.single_ser_details ul {
+  width: 100%;
+}
+.single_pro_details ul li {
+  line-height: 34px;
+  font-weight: 500;
+}
+.single_pro_details ul li i {
+  background: #1d8f2c;
+  color: #fff;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  border-radius: 30px;
+  text-align: center;
+  font-size: 12px;
+  margin-right: 10px;
+}
+.single_pro_details_info {
+  border: 1px solid #ddd;
+  margin-top: 30px;
+  overflow: hidden;
+}
+
+.spdi h3 {
+  background: #f8f7f0;
+  text-align: center;
+  padding: 30px;
+  margin: -1px;
+}
+.spdi_info {
+  padding: 20px 40px;
+  overflow: hidden;
+}
+.spdi_info_details {
+  float: left;
+  width: 50%;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 30px;
+}
+.spdi_info_details span {
+  font-weight: 600;
+}
+
+.spdi_social_rat {
+  text-align: center;
+}
+.spdi_social_rat h4 {
+  /* float: left; */
+  margin-bottom: 10px;
+}
+.spdi_social_rat i {
+  color: #ef783d;
+}
+
+.spdi_social ul {
+  text-align: center;
+}
+.spdi_social ul li {
+  display: inline-block;
+}
+.spdi_social ul li a {
+  display: block;
+  background: #ededed;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 100px;
+  transition: 0.3s;
+  margin: 0 2px;
+}
+.spdi_social ul li a:hover {
+  background: #1d8f2c;
+  color: #fff;
+}

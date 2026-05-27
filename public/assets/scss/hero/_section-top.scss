@@ -1,0 +1,46 @@
+.section-top {
+  padding-top: 60px;
+  position: relative;
+  background: url(/images/breadcum-bg.jpg);
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 60px;
+}
+.section-top::before {
+  content: "";
+  height: 100%;
+  opacity: 0.5;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  background: #f8f7f0;
+}
+.section-top-title {
+  position: relative;
+}
+@media only screen and (max-width: 480px) {
+  .section-top-title {
+    width: 100%;
+  }
+}
+.section-top-title h1 {
+  margin-bottom: 10px;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-size: 36px;
+}
+
+.section-top-title ul li {
+  color: #000 !important;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 16px;
+}
+.section-top-title ul li a {
+  color: #000 !important;
+  font-weight: 600;
+  font-size: 16px;
+}
+.section-top-title ul li a:hover {
+  color: #1d8f2c !important;
+}

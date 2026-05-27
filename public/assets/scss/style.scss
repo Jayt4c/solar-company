@@ -1,0 +1,32 @@
+// 1. Forward core configurations so downstream partials can read them automatically
+@forward "abstracts/variables";
+@forward "abstracts/mixins";
+@forward "abstracts/animations";
+
+// 2. Import global definitions for the index compilation file
+@use "abstracts/variables" as *;
+@use "abstracts/mixins" as *;
+@use "abstracts/animations" as *;
+
+// 3. Load UI stylesheets
+@use "base/fonts" as *;
+@use "base/common" as *;
+@use "top-header/top-header" as *;
+@use "header/header" as *;
+@use "hero/hero" as *;
+@use "services/services" as *;
+@use "about-us/about-us" as *;
+@use "features/features" as *;
+@use "video/video" as *;
+@use "contact/contact" as *;
+@use "portfolio/portfolio" as *;
+@use "sponsor/sponsor" as *;
+@use "faq/faq" as *;
+@use "news-letter/news-letter" as *;
+@use "stats/stats" as *;
+@use "testimonial/testimonial" as *;
+@use "blog/blog" as *;
+@use "footer/footer" as *;
+@use "support/support" as *;
+@use "pricing/pricing" as *;
+@use "../../../node_modules/aos/src/sass/aos.scss" as *;
