@@ -9,7 +9,7 @@ const Service = () => {
             <img src="/images/badge-icon.svg" alt="Badge Icon" />
             Our Services
           </h5>
-          <h2 data-aos="fade-up" data-aos-delay="300" className="srex-section__head__title ">
+          <h2 data-aos="fade-up" data-aos-delay="200" className="srex-section__head__title ">
             Unlock the potential of the sun with solar energy!
           </h2>
         </div>
@@ -32,7 +32,7 @@ const Service = () => {
                 </div>
               </div>
             </div>
-            <div data-aos="fade-up" data-aos-delay="200" className="col-md-6 col-lg-4 col-12">
+            <div data-aos="fade-up" data-aos-delay="100" className="col-md-6 col-lg-4 col-12">
               <div className="srex-info-box__item ">
                 <div className="d-flex justify-content-between align-items-center">
                   <div className="srex-info-box__item__img">
@@ -49,7 +49,7 @@ const Service = () => {
                 </div>
               </div>
             </div>
-            <div data-aos="fade-up" data-aos-delay="400" className="col-md-6 col-lg-4 col-12">
+            <div data-aos="fade-up" data-aos-delay="300" className="col-md-6 col-lg-4 col-12">
               <div className="srex-info-box__item ">
                 <div className="d-flex justify-content-between align-items-center">
                   <div className="srex-info-box__item__img">
@@ -66,7 +66,7 @@ const Service = () => {
                 </div>
               </div>
             </div>
-            <div data-aos="fade-up" data-aos-delay="600" className="col-md-6 col-lg-4 col-12">
+            <div data-aos="fade-up" data-aos-delay="400" className="col-md-6 col-lg-4 col-12">
               <div className="srex-info-box__item ">
                 <div className="d-flex justify-content-between align-items-center">
                   <div className="srex-info-box__item__img">
@@ -83,7 +83,7 @@ const Service = () => {
                 </div>
               </div>
             </div>
-            <div data-aos="fade-up" data-aos-delay="700" className="col-md-6 col-lg-4 col-12">
+            <div data-aos="fade-up" data-aos-delay="500" className="col-md-6 col-lg-4 col-12">
               <div className="srex-info-box__item ">
                 <div className="d-flex justify-content-between align-items-center">
                   <div className="srex-info-box__item__img">
@@ -100,7 +100,7 @@ const Service = () => {
                 </div>
               </div>
             </div>
-            <div data-aos="fade-up" data-aos-delay="800" className="col-md-6 col-lg-4 col-12">
+            <div data-aos="fade-up" data-aos-delay="600" className="col-md-6 col-lg-4 col-12">
               <div className="srex-info-box__item ">
                 <div className="d-flex justify-content-between align-items-center">
                   <div className="srex-info-box__item__img">
