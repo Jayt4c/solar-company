@@ -51,29 +51,29 @@ export const menu: MenuItem[] = [
     //   },
     // ],
   },
+  // {
+  //   id: "5",
+  //   title: "Blogs",
+  //   submenus: [
+  //     {
+  //       id: "5.1",
+  //       title: "Blogs",
+  //       url: "/blogs",
+  //     },
+  //     {
+  //       id: "5.2",
+  //       title: "Blog Details",
+  //       url: "/blog-details",
+  //     },
+  //   ],
+  // },
   {
     id: "5",
-    title: "Blogs",
-    submenus: [
-      {
-        id: "5.1",
-        title: "Blogs",
-        url: "/blogs",
-      },
-      {
-        id: "5.2",
-        title: "Blog Details",
-        url: "/blog-details",
-      },
-    ],
-  },
-  {
-    id: "6",
     title: "FAQs",
     url: "/faq",
   },
   {
-    id: "7",
+    id: "6",
     title: "Contact",
     url: "/contact",
   },
